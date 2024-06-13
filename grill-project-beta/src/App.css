@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-image: url('./images/tropical-leaves-bright-ai-generated-image.jpg');
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the background image */
+  height: 900px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
